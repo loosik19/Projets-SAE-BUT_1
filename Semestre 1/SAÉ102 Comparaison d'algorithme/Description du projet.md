@@ -39,7 +39,6 @@ Le programme permet :
 - Lecture de fichiers `.txt` et `.json`
 - Manipulation de listes et dictionnaires
 - Algorithmes de comparaison de données
-- Implémentation du KNN (K-Nearest Neighbors)
 - Calculs mathématiques de distances
 - Tri et recherche de voisins proches
 - Tests unitaires
