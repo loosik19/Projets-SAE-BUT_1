@@ -21,6 +21,10 @@ Pour effectuer cette répartition, plusieurs méthodes de prédiction ont été 
 
 Le projet compare également la précision des différentes méthodes afin de déterminer laquelle reproduit le mieux les choix du véritable Choixpeau magique. 
 
+## Compétence
+
+Optimiser des applications informatiques
+
 ## Fonctionnalités
 
 Le programme permet :
