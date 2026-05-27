@@ -1,10 +1,10 @@
 # Le nouveau choixpeau pas magique de Poudlard – SAE S1.02
 
-Projet réalisé dans le cadre de la SAE S1.02 à l’Université Sorbonne Paris Nord. :contentReference[oaicite:0]{index=0}
+Projet réalisé dans le cadre de la SAE S1.02 à l’Université Sorbonne Paris Nord.
 
 ## Description
 
-Ce projet est la suite de la SAE S1.01 et consiste à améliorer un système de répartition automatique des élèves de Poudlard à l’aide de méthodes inspirées du machine learning. :contentReference[oaicite:1]{index=1}
+Ce projet est la suite de la SAE S1.01 et consiste à améliorer un système de répartition automatique des élèves de Poudlard à l’aide de méthodes inspirées du machine learning.
 
 Le programme analyse les réponses des élèves à un questionnaire de 10 questions afin de déterminer la maison qui leur correspond le mieux :
 
@@ -17,9 +17,9 @@ Pour effectuer cette répartition, plusieurs méthodes de prédiction ont été 
 
 - la distance euclidienne ;
 - la méthode du plus proche voisin ;
-- la méthode des k plus proches voisins (K-Nearest Neighbors).
+- la méthode des k plus proches voisins.
 
-Le projet compare également la précision des différentes méthodes afin de déterminer laquelle reproduit le mieux les choix du véritable Choixpeau magique. :contentReference[oaicite:2]{index=2}
+Le projet compare également la précision des différentes méthodes afin de déterminer laquelle reproduit le mieux les choix du véritable Choixpeau magique. 
 
 ## Fonctionnalités
 
