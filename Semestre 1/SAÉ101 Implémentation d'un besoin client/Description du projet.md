@@ -13,7 +13,11 @@ L’objectif est de remplacer le célèbre Choixpeau magique par un système inf
 - Poufsouffle
 - Serpentard
 
-Le programme utilise des scores attribués à plusieurs questions afin d’effectuer une répartition cohérente des élèves selon leurs qualités principales. :contentReference[oaicite:1]{index=1}
+Le programme utilise des scores attribués à plusieurs questions afin d’effectuer une répartition cohérente des élèves selon leurs qualités principales. 
+
+## Compétence 
+
+Réaliser un développement d'application
 
 ## Fonctionnalités
 
