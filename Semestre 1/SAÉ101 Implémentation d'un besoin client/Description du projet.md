@@ -63,4 +63,4 @@ Certaines améliorations pourraient encore être apportées concernant la préci
 
 ## Auteur
 
-Kuruparan Pathmaranjan
+Kuruparan PATHMARANJAN
